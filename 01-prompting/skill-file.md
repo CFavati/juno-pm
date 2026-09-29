@@ -138,6 +138,7 @@ If fewer than three risks are supported, include only the supported risks and st
 - [Action type\]: [Specific recommendation and intended outcome]
 - [Action type\]: [Specific recommendation and intended outcome]
  
+
 Label each action as one of the following:
  
 - Investigate
