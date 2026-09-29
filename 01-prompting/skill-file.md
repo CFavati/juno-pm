@@ -118,7 +118,7 @@ Do not claim that a root cause is confirmed unless the source evidence directly 
  
 5. Top 3 Risks
  
--1. [Risk Name]
+- 1. [Risk Name]
  
 - Why it matters: [Customer and business impact]
 - Urgency: [High / Medium / Low]
@@ -134,9 +134,9 @@ If fewer than three risks are supported, include only the supported risks and st
  
 6. Recommended Actions
  
--1. [Action type\]: [Specific recommendation and intended outcome]
--2. [Action type\]: [Specific recommendation and intended outcome]
--3. [Action type\]: [Specific recommendation and intended outcome]
+- 1. [Action type\]: [Specific recommendation and intended outcome]
+- 2. [Action type\]: [Specific recommendation and intended outcome]
+- 3. [Action type\]: [Specific recommendation and intended outcome]
  
 Label each action as one of the following:
  
